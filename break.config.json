@@ -1,0 +1,23 @@
+{
+    "Breaks": {
+        "SHORT": {
+            "name": "Short Break",
+            "total": 2,
+            "duration": 15,
+            "timeing": [
+                "10:55-11:10",
+                "16:05-16:15"
+            ]
+        },
+        "LUNCH": {
+            "name": "Lunch Break",
+            "total": 1,
+            "duration": 60,
+            "timeing": [
+                "13:05-14:10"
+            ]
+        }
+    },
+    "BREATHING_GAP": "NORMAL",  
+    "GAP_TIME_BETWEEN_LECTURES": 5
+}

@@ -1,0 +1,20 @@
+{
+    "DAYS_COUNT_IN_WEEK": 5,
+    "DAYS": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+    ],
+    "LECTURE_TIME_SLOTS": [
+
+    ],
+    "LECTURE_DURATION": 55,
+    "LAB_DURATION": 115,
+    "MAX_SAME_LECTURE_COUNT_IN_SINGLE_DAY": 2,
+    "MAX_LECTURES_PER_DAY": 6,
+    "START_TIME": "08:00",
+    "END_TIME": "18:10",
+    "WEEK_START_DAY": "Monday"
+}
